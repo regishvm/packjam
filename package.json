@@ -1,0 +1,23 @@
+{
+  "name": "packjam",
+  "version": "1.0.0",
+  "description": "Pack Jam",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regishvm/packjam.git"
+  },
+  "keywords": [
+    "Pack",
+    "Jam"
+  ],
+  "author": "Regish Veeramoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regishvm/packjam/issues"
+  },
+  "homepage": "https://github.com/regishvm/packjam#readme"
+}
